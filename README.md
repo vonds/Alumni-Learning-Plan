@@ -17,4 +17,4 @@ what I've learned
 ============================================
 -I've learned that writing out your sudo code before anything else goes a long way.
 -I used the eval method in this project but I read that it's dangerous and should be avoided. In the future I'm going to find alternatives.
--OOP maked for cleaner more organized code
+-OOP made my code cleaner,readable, and organized
